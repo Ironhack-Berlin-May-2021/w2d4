@@ -1,0 +1,15 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "For this purpose we use automated tests. The tests are just code that is also written in JavaScript that calls and executes parts of our program or our app and checks if everything works as expected.",
+  "main": "index.js",
+  "scripts": {
+    "t": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
